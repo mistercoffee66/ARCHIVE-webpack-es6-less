@@ -60,3 +60,6 @@ typings/
 # Webstorm, Intellij, etc
 .idea/
 
+# don't commit build
+build/
+
